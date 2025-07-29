@@ -1,3 +1,5 @@
+pip install -r requirements.txt
+
 #######################
 # Import libraries
 import streamlit as st
